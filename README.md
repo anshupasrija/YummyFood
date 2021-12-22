@@ -4,6 +4,7 @@ Recipe App is an MVP app built with React, Edamam Recipe Search API. This app pr
 # Final Product
 ![Home Page](./public/Home_Page.png)
 ![Learn More Page](./public/Learn_More.png)
+![Share Page](./public/Share.png)
 
 
 # Getting Started
