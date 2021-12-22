@@ -2,9 +2,9 @@
 Recipe App is an MVP app built with React, Edamam Recipe Search API. This app provides a front end interface  where users can interact with the app by feeding in the ingredient in the input box. for a recipe for any ingredient. The user can navigate through the list of recipes showing up containing the ingredient 
 
 # Final Product
-![Home Page](./public/Home_Page.png)
-![Learn More Page](./public/Learn_More.png)
-![Share Page](./public/Share.png)
+![Home Page](/public/Home_Page.png)
+![](/public/Learn_More.png)
+![](/public/Share.png)
 
 
 # Getting Started
@@ -15,3 +15,4 @@ Recipe App is an MVP app built with React, Edamam Recipe Search API. This app pr
 # Dependencies
 * Axios
 * SASS
+* Material UI
