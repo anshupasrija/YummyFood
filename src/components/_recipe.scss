@@ -1,29 +1,27 @@
-.recipe{       
-    background-color: rgb(220, 236, 192);
-    display:flex; 
-    width:100%;
-    flex-wrap: wrap;   
-    &__list{        
-       display:flex;
-        flex-direction:column;
-        align-items: center;
-        width:50%;
-        padding: 2rem;
-        
-    }
-    &__image{
-        height:200px;
-        width:200px;
-    }  
-    &__label{
-        font-size:2rem;
-        text-align: center;
-        color: rgb(79, 94, 94);
-        font-weight:600;
-    }
-    &__heading{
-        font-size:1.5rem;
-        color: rgb(79, 94, 94);
-
-    }
+.recipe {
+  background-color: rgb(220, 236, 192);
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  &__list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    padding: 2rem;
+  }
+  &__image {
+    height: 200px;
+    width: 200px;
+  }
+  &__label {
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(79, 94, 94);
+    font-weight: 600;
+  }
+  &__heading {
+    font-size: 1.5rem;
+    color: rgb(79, 94, 94);
+  }
 }
